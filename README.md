@@ -1,6 +1,6 @@
 # Week 9
 
-In this weekends, our group started writing Spring 2023 Team#1 Progress Report. Through class study and discussion, we determined the Problem Statement, Statement of Work, Deliverables, and Validation.
+✒️In this weekends, our group started writing Spring 2023 Team#1 Progress Report. Through class study and discussion, we determined the Problem Statement, Statement of Work, Deliverables, and Validation.
 
 This statement of work details the work items for Twin-Screw Amphibious Robot, assigned to Team 1 as part of the requirements for MECE 4340: ME Capstone design for the 2021-2022 school year.
 With industrialization, there is an increasing demand for amphibious robots. The aim of this project is to address the shortcomings of amphibious robots currently on the market, and to design an efficient, economical, and easy-to-maintain amphibious robot for specific environments such as swamps and wetlands.
@@ -10,29 +10,29 @@ Presently, there is a wealth of research on amphibious robots, yet only a scant 
 Legged amphibious robots, on the other hand, have received substantial research attention; however, many are designed for specific environments, limiting their practicality. They excel at overcoming obstacles but often underperform in water, hampering their broad applicability.
 Notably, our research indicates that the majority of current underwater robots are concentrated in duck-bill and crawler-type designs, with propeller-driven mechanisms being relatively rare. This finding underscores the innovative nature of our project.
 
-**Statement of Work:**
+◀️**Statement of Work:**
 
 The Chasing-Tide-and-Dream team, designated as Team #1, will 	work on the design 	and development of a twin-screw amphibious robot, focusing on the 	creation of a 	physical working prototype, an advanced conceptual design with 	simulation verification, a comprehensive feasibility study, detailed schematics of design components and assembly, and a robust battery energy management system.
 
-**Deliverables:**
+◀️**Deliverables:**
 
-**Physical Working Prototype:** The central deliverable, a fully functional 	twin-screw 	amphibious robot, will be constructed and tested to demonstrate 	its capabilities in 		real-world environments. This prototype will serve as a tangible 	embodiment of our 	design.
+🟤**Physical Working Prototype:** The central deliverable, a fully functional 	twin-screw 	amphibious robot, will be constructed and tested to demonstrate 	its capabilities in 		real-world environments. This prototype will serve as a tangible 	embodiment of our 	design.
 
-**Conceptual Design with Simulation Verification:** A detailed conceptual design report 	will be generated, incorporating simulations and analyses that validate the effectiveness 	and performance of our robot's twin-screw mechanism, autopilot system, and energy 		management.
+🟤**Conceptual Design with Simulation Verification:** A detailed conceptual design report 	will be generated, incorporating simulations and analyses that validate the effectiveness 	and performance of our robot's twin-screw mechanism, autopilot system, and energy 		management.
 
-**Feasibility Study:** A comprehensive feasibility study will be conducted, evaluating the 	robot's potential for deployment in various scenarios, including swamps and wetlands. 	The study will consider technical, economic, and practical aspects.
+🟤**Feasibility Study:** A comprehensive feasibility study will be conducted, evaluating the 	robot's potential for deployment in various scenarios, including swamps and wetlands. 	The study will consider technical, economic, and practical aspects.
 
-**Schematics of Design Components and Assembly:** Detailed schematics and assembly 	instructions for our twin-screw amphibious robot will be provided. These documents will 	serve as a guide for constructing additional robots or making modifications.
+🟤**Schematics of Design Components and Assembly:** Detailed schematics and assembly 	instructions for our twin-screw amphibious robot will be provided. These documents will 	serve as a guide for constructing additional robots or making modifications.
 
-**Battery Energy Management System:** The development of a high-efficiency, long-life 	battery system will be a crucial part of our project. Detailed specifications, schematics, 	and performance evaluations will be included in this deliverable.
+🟤**Battery Energy Management System:** The development of a high-efficiency, long-life 	battery system will be a crucial part of our project. Detailed specifications, schematics, 	and performance evaluations will be included in this deliverable.
 
 These deliverables are intended to provide our clients and stakeholders with a comprehensive set of resources and solutions. They will include both tangible physical results and documentation to ensure the successful transfer and implementation of our twin-screw amphibious robot design in various applications.
 
-**Validations:**
+◀️**Validations:**
 
 The validation plan for the Twin-Screw Amphibious Robot project is designed to methodically assess the robot's functionality and performance against a set of specific criteria. Our evaluation process includes quantitative and qualitative measures to grade the robot’s efficiency, effectiveness, and reliability in simulated and real-world environments.
 
-**Physical Measurements:**
+⬇️**Physical Measurements:**
 
 **Mobility and Navigation:**
 
@@ -66,11 +66,11 @@ The validation plan for the Twin-Screw Amphibious Robot project is designed to m
 
 **Criteria:** The robot must carry a specified maximum weight while maintaining basic 	maneuverability.
 
-**Process for Criteria Measurement:**
+⬇️**Process for Criteria Measurement:**
 
 Each physical measurement will be taken using precision instruments to ensure accuracy. The obstacle course for navigation will be standardized, with time and command count logged by an automated system. For battery efficiency, we will utilize voltage and current sensors to monitor battery status, with thermal cameras to measure temperature variations. Waterproof integrity will be evaluated in a controlled water tank equipped with moisture sensors inside the robot’s compartments. Load capacity will be measured by incrementally adding weight to the robot and evaluating its movement using motion capture technology.
 
-**Validation Grading:**
+⏬**Validation Grading:**
 
 Our validation plan incorporates a grading scale to quantify how well the robot meets the set criteria:
 
